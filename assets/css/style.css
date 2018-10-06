@@ -1,0 +1,39 @@
+body {
+    background-image: url(../images/max-bender-1086377-unsplash.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: black;
+    opacity: 0.9;
+}
+
+thead,
+tbody,
+.form-group, 
+.display-4, 
+.lead {
+    text-align: center;
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+}
+
+thead {
+    color: rgb(179, 179, 179);
+}
+
+.form-group {
+    text-align: left;
+}
+
+
+
+#addTrainForm {
+ background: black;
+ opacity: 0.9;   
+}
